@@ -375,9 +375,6 @@ export default function CheckoutPage() {
                         <p>
                           <strong>Account Name:</strong> Eloténe Ghana Ltd
                         </p>
-                        <p>
-                          <strong>Account Number:</strong> 1234567890123
-                        </p>
                         <p className="mt-3 text-amber-700">
                           Please send proof of payment to: elotene.business@gmail.com with your order number
                         </p>
